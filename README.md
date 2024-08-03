@@ -1,4 +1,3 @@
-# 💫 About Me:
 # Hi there! 👋
 
 I'm @nesrucodex, a passionate full stack developer with a keen interest in building scalable web applications.
